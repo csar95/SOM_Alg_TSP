@@ -33,4 +33,4 @@ class Utils:
 
     def update_parameters(self):
         self.learningRate *= 0.999
-        self.radius = int(self.radius * 0.995)
+        self.radius = int(self.radius * 0.999)
