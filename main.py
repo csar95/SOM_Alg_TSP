@@ -70,10 +70,10 @@ def draw_graph(j):
     step += 1
 
 
-dataFile = 'Data_WesternSahara.txt'
+# dataFile = 'Data_WesternSahara.txt'
 # dataFile = 'Data_Djibouti.txt'
 # dataFile = 'Data_Uruguay.txt'
-# dataFile = 'Data_Qatar.txt'
+dataFile = 'Data_Qatar.txt'
 
 
 file = open(dataFile, 'rt')
